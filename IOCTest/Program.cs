@@ -27,8 +27,6 @@ namespace IOCTest
 
             Console.WriteLine(sys1.InterestingEventHappened());
 
-           
-
             Console.ReadLine();
         }
     }
